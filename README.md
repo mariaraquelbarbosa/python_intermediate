@@ -1,2 +1,2 @@
 # python_intermediate
- Capacitação de Python Intermediária
+ Capacitação de Python Nível Intermediário
